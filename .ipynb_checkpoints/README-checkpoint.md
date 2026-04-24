@@ -20,4 +20,4 @@ Link: https://data.wprdc.org/dataset/parks
 Link: https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops
 
 **Mason** used the **Condemned and Dead-End Properties** dataset. It contains data about all of the roughly 3,400 condemned properties in Pittsburgh, as sourced from the city's Department of Permits, Licenses, and Inspections. The "dead-end" designation refers to condemned properties for which the owner cannot be found or located after multiple attempts. Each property has data fields for the location (address), owner, inspection results, neighborhood, and more. Like the other two datasets, it comes in both table and map format (CSV or GeoJSON, respectively).  
-Linkhttps://data.wprdc.org/dataset/condemned-properties
+Link: https://data.wprdc.org/dataset/condemned-properties
