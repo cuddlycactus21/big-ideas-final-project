@@ -7,10 +7,12 @@ Team name: The Three Stooges (Canvas group #10)
 Team members:
 - Luke Douglas (ljd92@pitt.edu) - Github as cuddlycactus21 or ljd92
 - Michael Tichy (mit174@pitt.edu) - Github as amp575 or mit174
-- Mason Pavelik (mwp42@pitt.edu) - Github as masonp482 or mwp42  
+- Mason Pavelik (mwp42@pitt.edu) - Github as masonp482 or mwp42
+
 *Note: It does not list all of us as contributors because when adding from JupyterHub it does it under our Pitt usernames. This can be seen in the Github repo files. The only contributor listed is Luke, and his only listed contribution being when he created the repo, but we are all added to the project as collaborators, and our work on the project can be seen in the files (e.g., added by mit174, or by mwp42, etc).
 
 Datasets used:
+
 **Luke** used the **City of Pittsburgh Parks** dataset. It lists all of the roughly 200 parks in Pittsburgh, including traffic islands and medians as well as actual, fully-fledged parks. It was last updated in 2021 - a newer dataset is in the process of being created. For each park, it has data fields such as the name, type, location, neighborhood, ward, who's responsible for maintaining it, and more. It is a GeoJSON file, meaning it can either be displayed as a standard table or in map format.  
 Link: https://data.wprdc.org/dataset/parks
 
